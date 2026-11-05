@@ -1,6 +1,6 @@
 {
   "schema": "playkeen/registry-v1",
-  "generated_at": "2026-11-05T06:47:11.329Z",
+  "generated_at": "2026-11-05T19:57:27.073Z",
   "apps": [
     {
       "id": "keenplay-3x-ui",
@@ -90,16 +90,16 @@
     {
       "id": "nfqws2-keenetic",
       "name": "NFQWS2 for Keenetic",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "type": "opkg",
       "source": "github-curated",
       "verified": true,
       "package_name": "nfqws2-keenetic",
       "repository": "https://github.com/nfqws/nfqws2-keenetic",
-      "release": "v1.3.2",
-      "release_url": "https://github.com/nfqws/nfqws2-keenetic/releases/tag/v1.3.2",
-      "package_url": "https://github.com/nfqws/nfqws2-keenetic/releases/download/v1.3.2/nfqws2-keenetic_1.3.2_all_entware.ipk",
-      "sha256": "6de14a39345e05c887cd0d9af573bf42b4a489773d36011079c6f5c2fe2a0dd9",
+      "release": "v1.3.3",
+      "release_url": "https://github.com/nfqws/nfqws2-keenetic/releases/tag/v1.3.3",
+      "package_url": "https://github.com/nfqws/nfqws2-keenetic/releases/download/v1.3.3/nfqws2-keenetic_1.3.3_all_entware.ipk",
+      "sha256": "499258e8a32aaf407c8b57c24c44696a50edc776a35fb41a449283faaabd6c55",
       "architectures": [
         "arm64",
         "arm",
