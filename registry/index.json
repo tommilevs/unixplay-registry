@@ -1,6 +1,6 @@
 {
   "schema": "playkeen/registry-v1",
-  "generated_at": "2026-11-22T06:49:00.187Z",
+  "generated_at": "2026-11-22T19:41:04.675Z",
   "apps": [
     {
       "id": "keenplay-3x-ui",
@@ -120,7 +120,7 @@
       "feed": "aarch64-k3.10",
       "architecture": "arm64",
       "url": "https://raw.githubusercontent.com/tommilevs/unixplay-registry/main/registry/entware/aarch64-k3.10.json",
-      "count": 2929
+      "count": 2931
     },
     {
       "feed": "armv5sf-k3.2",
@@ -138,25 +138,25 @@
       "feed": "armv7sf-k3.2",
       "architecture": "armv7-k3.2",
       "url": "https://raw.githubusercontent.com/tommilevs/unixplay-registry/main/registry/entware/armv7sf-k3.2.json",
-      "count": 2994
+      "count": 2996
     },
     {
       "feed": "mipselsf-k3.4",
       "architecture": "mipsel",
       "url": "https://raw.githubusercontent.com/tommilevs/unixplay-registry/main/registry/entware/mipselsf-k3.4.json",
-      "count": 2926
+      "count": 2928
     },
     {
       "feed": "mipssf-k3.4",
       "architecture": "mips",
       "url": "https://raw.githubusercontent.com/tommilevs/unixplay-registry/main/registry/entware/mipssf-k3.4.json",
-      "count": 2925
+      "count": 2927
     },
     {
       "feed": "x64-k3.2",
       "architecture": "amd64",
       "url": "https://raw.githubusercontent.com/tommilevs/unixplay-registry/main/registry/entware/x64-k3.2.json",
-      "count": 2929
+      "count": 2931
     },
     {
       "feed": "x86-k2.6",
